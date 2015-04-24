@@ -1,3 +1,4 @@
+<?php
 class Loop extends ArrayObject{
     protected $i = null;
 
