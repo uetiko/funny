@@ -1,4 +1,8 @@
 <?php
+/**
+ * Una clase feliz con un for simple solo para jugar
+ * @author Angel Barrientos <uetiko@gmail.com>
+ */
 class Loop {
 	/** @var int $init */
 	private $init = null;
